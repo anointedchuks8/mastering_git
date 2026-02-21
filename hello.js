@@ -1,4 +1,2 @@
-console. log('Hello, Git!')
-
-- i'm adding this from 
-'feature-branch-1'
+console. log('Hello, Git!');
+console. log('Hello, GitHub!');
